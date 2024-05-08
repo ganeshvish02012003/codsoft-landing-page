@@ -9,5 +9,5 @@
 
 ## Preview
 
-![Eduport](https://github.com/ganeshvish02012003/Codsoft/assets/149355047/79ea0d10-075e-4dd4-9cd4-85ba533451ef)
+![Eduport](https://github.com/ganeshvish02012003/codsoft1-landing-page/assets/149355047/90866397-4958-4544-bd4d-6554a21087b8)
 
